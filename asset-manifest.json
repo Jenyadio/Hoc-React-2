@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hoc-React-2/static/css/main.d69b6844.css",
+    "main.js": "/Hoc-React-2/static/js/main.2b15e15c.js",
+    "index.html": "/Hoc-React-2/index.html",
+    "main.d69b6844.css.map": "/Hoc-React-2/static/css/main.d69b6844.css.map",
+    "main.2b15e15c.js.map": "/Hoc-React-2/static/js/main.2b15e15c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d69b6844.css",
+    "static/js/main.2b15e15c.js"
+  ]
+}
